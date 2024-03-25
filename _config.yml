@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Fukwno # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 공부한 내용을 포스팅 하는 블로그 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
