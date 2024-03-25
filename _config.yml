@@ -16,6 +16,8 @@ timezone: Asia/Seoul
 
 title: Fukwno # the main title
 
+published: true
+
 tagline: 공부한 내용을 포스팅 하는 블로그 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
@@ -78,7 +80,8 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -140,7 +143,7 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
-
+future: true
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
